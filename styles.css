@@ -1,4 +1,24 @@
 textarea {
-  background-color: yellow;
+  background-color: aliceblue;
   display: block;
+  height: 10vh;
+  width: 80%;
+  padding: 10px;
+}
+h1 {
+  padding: 15px;
+  max-width: 500px;
+  background-color: yellow;
+}
+button {
+  background-color: crimson;
+  color: aliceblue;
+  padding: 10px;
+}
+hr {
+  border: 0cap;
+}
+
+body {
+  background-image: url("Images/minions.jpg");
 }
