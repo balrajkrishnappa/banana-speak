@@ -1,24 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+* {
+  font-family: "Pacifico", cursive;
+}
+header {
+  padding: 10px;
+  background-color: gold;
+}
 textarea {
   background-color: aliceblue;
   display: block;
-  height: 10vh;
+  height: 30vh;
   width: 80%;
   padding: 10px;
+  margin: 0 auto;
+  font-family: "Pacifico";
 }
 h1 {
   padding: 15px;
   max-width: 500px;
-  background-color: yellow;
+  margin: 0 auto;
 }
 button {
+  display: block;
   background-color: crimson;
   color: aliceblue;
   padding: 10px;
+  margin: 0 auto;
 }
 hr {
   border: 0cap;
 }
 
 body {
-  background-image: url("Images/minions.jpg");
+  background-color: white;
 }
