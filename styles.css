@@ -7,20 +7,24 @@ header,
 footer {
   padding: 10px;
   background-color: gold;
+  text-align: center;
 }
 textarea {
   background-color: aliceblue;
   display: block;
-  height: 30vh;
+  height: 25vh;
   width: 80%;
   padding: 10px;
   margin: 0 auto;
   font-family: "Pacifico";
 }
+.top-head {
+  padding: 5px;
+}
 h1 {
   padding: 15px;
-  max-width: 500px;
   margin: 0 auto;
+  text-align: center;
 }
 button {
   display: block;
@@ -31,8 +35,10 @@ button {
 }
 hr {
   border: 0cap;
+  padding: 10px 0;
 }
 
 body {
   background-color: white;
+  margin: 0;
 }
