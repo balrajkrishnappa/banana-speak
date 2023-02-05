@@ -3,7 +3,8 @@
 * {
   font-family: "Pacifico", cursive;
 }
-header {
+header,
+footer {
   padding: 10px;
   background-color: gold;
 }
